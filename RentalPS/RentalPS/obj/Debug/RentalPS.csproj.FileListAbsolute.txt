@@ -1,0 +1,9 @@
+C:\23.11.5652\Test\RentalPS\RentalPS\obj\Debug\RentalPS.csproj.AssemblyReference.cache
+C:\23.11.5652\Test\RentalPS\RentalPS\obj\Debug\RentalPS.Properties.Resources.resources
+C:\23.11.5652\Test\RentalPS\RentalPS\obj\Debug\RentalPS.csproj.GenerateResource.cache
+C:\23.11.5652\Test\RentalPS\RentalPS\obj\Debug\RentalPS.csproj.CoreCompileInputs.cache
+C:\23.11.5652\Test\RentalPS\RentalPS\bin\Debug\RentalPS.exe.config
+C:\23.11.5652\Test\RentalPS\RentalPS\bin\Debug\RentalPS.exe
+C:\23.11.5652\Test\RentalPS\RentalPS\bin\Debug\RentalPS.pdb
+C:\23.11.5652\Test\RentalPS\RentalPS\obj\Debug\RentalPS.exe
+C:\23.11.5652\Test\RentalPS\RentalPS\obj\Debug\RentalPS.pdb
